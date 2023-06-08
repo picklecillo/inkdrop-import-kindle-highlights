@@ -12,7 +12,10 @@
   "scripts": {
     "lint": "eslint lib"
   },
-  "repository": "github:picklecillo/inkdrop-import-kindle-highlights",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:picklecillo/inkdrop-import-kindle-highlights.git"
+  },
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
