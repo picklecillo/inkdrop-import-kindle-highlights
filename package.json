@@ -1,7 +1,7 @@
 {
   "name": "import-kindle-highlights",
   "main": "./lib/index",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A plugin for importing Kindle highlights from HTML files",
   "keywords": [
     "import",
