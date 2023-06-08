@@ -1,18 +1,24 @@
 {
-  "name": "import-html",
+  "name": "import-kindle-highlights",
   "main": "./lib/index",
-  "version": "2.2.1",
-  "description": "A plugin for importing notes from HTML files",
-  "keywords": [],
+  "version": "0.1.0",
+  "description": "A plugin for importing Kindle highlights from HTML files",
+  "keywords": [
+    "import",
+    "kindle",
+    "highlights",
+    "zettelkasten"
+  ],
   "scripts": {
     "lint": "eslint lib"
   },
-  "repository": "https://github.com/inkdropapp/inkdrop-import-html",
+  "repository": "https://github.com/picklecillo/inkdrop-import-kindle-highlights",
   "license": "MIT",
   "engines": {
     "inkdrop": "^5.x"
   },
   "dependencies": {
+    "@silvermine/undertemplate": "^1.0.2",
     "inkdrop-import-utils": "^1.0.5"
   },
   "devDependencies": {

@@ -4,9 +4,9 @@
       "label": "File",
       "submenu": [
         {
-          "label": "Import",
+          "label": "Import Kindle highlights",
           "submenu": [
-            { "label": "from HTML files..", "command": "import-html:import-from-file" }
+            { "label": "from HTML file..", "command": "import-kindle-highlights:import-from-file" }
           ]
         }
       ]
